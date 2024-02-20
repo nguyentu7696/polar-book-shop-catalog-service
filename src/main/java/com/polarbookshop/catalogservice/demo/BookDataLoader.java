@@ -1,4 +1,5 @@
 package com.polarbookshop.catalogservice.demo;
+
 import java.util.List;
 
 import com.polarbookshop.catalogservice.domain.Book;
